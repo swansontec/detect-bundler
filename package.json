@@ -1,0 +1,16 @@
+{
+  "name": "detect-bundler",
+  "version": "1.0.0",
+  "description": "Detects browser and React Native source-code bundlers",
+  "keywords": [
+    "build",
+    "bundler",
+    "detect",
+    "platform"
+  ],
+  "license": "MIT",
+  "author": "William Swanson",
+  "main": "main.js",
+  "browser": "./browser.js",
+  "react-native": "./react-native.js"
+}
