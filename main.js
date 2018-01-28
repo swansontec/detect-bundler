@@ -1,2 +1,3 @@
-module.exports.isBrowser = false
-module.exports.isReactNative = false
+// @flow
+exports.isBrowser = false
+exports.isReactNative = false
