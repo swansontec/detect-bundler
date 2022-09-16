@@ -12,5 +12,6 @@
   "author": "William Swanson",
   "main": "main.js",
   "browser": "./browser.js",
+  "types": "./index.d.ts",
   "react-native": "./react-native.js"
 }
