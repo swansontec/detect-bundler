@@ -1,6 +1,6 @@
 {
   "name": "detect-bundler",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Detects browser and React Native source-code bundlers",
   "keywords": [
     "build",
